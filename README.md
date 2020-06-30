@@ -28,6 +28,9 @@ As the network makes use of a sophisticated deep convolutional neural network  t
 
 However, once a model is trained then a normal CPU can be used for the prediction and you will have an answer within some seconds.
 
+## Using Different Images
+To test the pipeline with your own images, you can create a folder named 'test_images' in the same directory as of the jupyter notebook, and put any and as many images you wish to test in it. This process will be in accordance to the current code and it need not be modified.
+
 ## Authors
 
 * **Rishabh Chhillar** 
