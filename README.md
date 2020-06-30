@@ -11,7 +11,7 @@ In this real-world setting, a series of models have been pieced together to perf
 ## Viewing the Jyputer Notebook
 In order to better view and work on the jupyter Notebook I encourage you to use [nbviewer](https://nbviewer.jupyter.org/) . You can simply copy and paste the link to this website and you will be able to edit it without any problem. Alternatively you can clone the repository using 
 ```
-git clone https://github.com/rishabhchhillar/Image-Classifier/
+git clone https://github.com/rishabhchhillar/Dog-Breed-Classifier/
 ```
 then in the command Line type, after you have downloaded jupyter notebook type
 ```
